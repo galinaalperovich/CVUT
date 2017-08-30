@@ -1,2 +1,1 @@
-# CVUT
-Courses from CVUT (Czech Technical University), Artificial Intelligence sepcialization
+# Automatic reasoning course in CVUT (AU)
